@@ -16,9 +16,11 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
