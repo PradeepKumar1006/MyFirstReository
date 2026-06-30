@@ -15,6 +15,7 @@ My First Day at GitHub
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0074-search-a-2d-matrix) |
@@ -49,4 +50,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
