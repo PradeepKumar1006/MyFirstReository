@@ -56,6 +56,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,9 +77,14 @@ My First Day at GitHub
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
