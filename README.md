@@ -23,6 +23,7 @@ My First Day at GitHub
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +55,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
