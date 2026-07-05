@@ -51,6 +51,7 @@ My First Day at GitHub
 | [0176-second-highest-salary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0262-trips-and-users) |
 | [3374-first-letter-capitalization-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3374-first-letter-capitalization-ii) |
 | [3497-analyze-subscription-conversion](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3497-analyze-subscription-conversion) |
