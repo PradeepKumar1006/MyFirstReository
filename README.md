@@ -26,6 +26,7 @@ My First Day at GitHub
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
