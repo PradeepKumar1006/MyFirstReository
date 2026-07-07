@@ -15,6 +15,7 @@ My First Day at GitHub
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0035-search-insert-position) |
@@ -106,6 +107,7 @@ My First Day at GitHub
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
