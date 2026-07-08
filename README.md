@@ -120,6 +120,7 @@ My First Day at GitHub
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -129,6 +130,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
