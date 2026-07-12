@@ -7,6 +7,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0326-power-of-three) |
@@ -161,6 +162,7 @@ My First Day at GitHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
