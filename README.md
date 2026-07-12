@@ -13,6 +13,7 @@ My First Day at GitHub
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
@@ -175,6 +176,7 @@ My First Day at GitHub
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
 ## Interactive
 |  |
 | ------- |
@@ -209,4 +211,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
