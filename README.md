@@ -7,6 +7,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ My First Day at GitHub
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
