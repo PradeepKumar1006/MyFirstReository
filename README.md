@@ -36,6 +36,7 @@ My First Day at GitHub
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0485-max-consecutive-ones) |
@@ -136,11 +137,13 @@ My First Day at GitHub
 | ------- |
 | [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -190,4 +193,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
