@@ -45,6 +45,7 @@ My First Day at GitHub
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
@@ -144,4 +145,5 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
