@@ -9,6 +9,7 @@ My First Day at GitHub
 | [0007-reverse-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
@@ -33,6 +34,7 @@ My First Day at GitHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
@@ -180,4 +182,12 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
