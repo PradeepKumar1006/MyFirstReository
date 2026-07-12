@@ -43,6 +43,7 @@ My First Day at GitHub
 | [0074-search-a-2d-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
@@ -148,4 +149,16 @@ My First Day at GitHub
 | ------- |
 | [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
