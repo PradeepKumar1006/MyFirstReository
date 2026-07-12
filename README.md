@@ -18,6 +18,7 @@ My First Day at GitHub
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ My First Day at GitHub
 | [0137-single-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
@@ -136,6 +138,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -151,6 +154,7 @@ My First Day at GitHub
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
