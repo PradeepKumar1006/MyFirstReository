@@ -41,6 +41,7 @@ My First Day at GitHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
@@ -135,4 +136,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
