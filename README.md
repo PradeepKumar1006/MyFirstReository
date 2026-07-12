@@ -9,6 +9,7 @@ My First Day at GitHub
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0441-arranging-coins) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
@@ -122,6 +123,7 @@ My First Day at GitHub
 | [0206-reverse-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +162,7 @@ My First Day at GitHub
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
