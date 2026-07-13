@@ -33,6 +33,7 @@ My First Day at GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ My First Day at GitHub
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
@@ -149,6 +151,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
