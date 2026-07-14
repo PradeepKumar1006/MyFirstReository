@@ -88,6 +88,7 @@ My First Day at GitHub
 | [0183-customers-who-never-order](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0262-trips-and-users) |
+| [1757-recyclable-and-low-fat-products](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1757-recyclable-and-low-fat-products) |
 | [3374-first-letter-capitalization-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3374-first-letter-capitalization-ii) |
 | [3497-analyze-subscription-conversion](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3521-find-product-recommendation-pairs) |
