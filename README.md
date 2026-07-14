@@ -101,6 +101,7 @@ My First Day at GitHub
 | [1661-average-time-of-process-per-machine](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1934-confirmation-rate) |
 | [3374-first-letter-capitalization-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3374-first-letter-capitalization-ii) |
 | [3497-analyze-subscription-conversion](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3521-find-product-recommendation-pairs) |
