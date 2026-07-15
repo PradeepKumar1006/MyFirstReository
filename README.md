@@ -117,6 +117,7 @@ My First Day at GitHub
 | [1729-find-followers-count](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3374-first-letter-capitalization-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3374-first-letter-capitalization-ii) |
 | [3497-analyze-subscription-conversion](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3497-analyze-subscription-conversion) |
