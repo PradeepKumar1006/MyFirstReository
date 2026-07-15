@@ -18,6 +18,7 @@ My First Day at GitHub
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
@@ -71,6 +72,7 @@ My First Day at GitHub
 | [0374-guess-number-higher-or-lower](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ My First Day at GitHub
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
