@@ -32,6 +32,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0027-remove-element) |
@@ -232,6 +233,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 ## Dynamic Programming
@@ -285,4 +287,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
