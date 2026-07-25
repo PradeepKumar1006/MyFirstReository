@@ -45,6 +45,7 @@ My First Day at GitHub
 | [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -212,6 +213,7 @@ My First Day at GitHub
 | ------- |
 | [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
@@ -318,4 +320,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
