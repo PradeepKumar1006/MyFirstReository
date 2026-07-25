@@ -17,6 +17,7 @@ My First Day at GitHub
 | [0326-power-of-three](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
@@ -251,6 +252,7 @@ My First Day at GitHub
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -312,4 +314,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
