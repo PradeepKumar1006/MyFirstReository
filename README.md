@@ -20,6 +20,7 @@ My First Day at GitHub
 | [0441-arranging-coins](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -210,6 +211,7 @@ My First Day at GitHub
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
