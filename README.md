@@ -9,6 +9,7 @@ My First Day at GitHub
 | [0007-reverse-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0263-ugly-number) |
@@ -54,6 +55,7 @@ My First Day at GitHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
@@ -164,6 +166,7 @@ My First Day at GitHub
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
