@@ -178,6 +178,7 @@ My First Day at GitHub
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
@@ -222,6 +223,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
@@ -257,6 +259,7 @@ My First Day at GitHub
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
