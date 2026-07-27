@@ -64,6 +64,7 @@ My First Day at GitHub
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
@@ -174,6 +175,7 @@ My First Day at GitHub
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
