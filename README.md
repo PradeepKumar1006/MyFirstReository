@@ -49,6 +49,7 @@ My First Day at GitHub
 | [0056-merge-intervals](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0136-single-number) |
@@ -168,6 +169,7 @@ My First Day at GitHub
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
@@ -244,6 +246,7 @@ My First Day at GitHub
 | [0015-3sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
