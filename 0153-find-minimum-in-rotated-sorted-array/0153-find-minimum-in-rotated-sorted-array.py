@@ -1,3 +1,7 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        return min(nums)
+        res = float('inf')
+        for val in nums:
+            if val < res:
+                res = val
+        return res
