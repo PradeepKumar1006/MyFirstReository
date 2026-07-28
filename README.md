@@ -67,6 +67,7 @@ My First Day at GitHub
 | [0260-single-number-iii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
@@ -241,6 +242,7 @@ My First Day at GitHub
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
