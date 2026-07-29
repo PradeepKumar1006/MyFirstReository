@@ -11,7 +11,3 @@ class Solution:
             for j in range(len(matrix[0])):
                 if row[i] == 0 or col[j] == 0:
                     matrix[i][j] = 0
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
-        
