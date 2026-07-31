@@ -64,6 +64,7 @@ My First Day at GitHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
@@ -173,6 +174,7 @@ My First Day at GitHub
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0347-top-k-frequent-elements) |
@@ -261,6 +263,7 @@ My First Day at GitHub
 | [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
@@ -280,6 +283,7 @@ My First Day at GitHub
 | [0056-merge-intervals](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
@@ -362,6 +366,7 @@ My First Day at GitHub
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0387-first-unique-character-in-a-string) |
