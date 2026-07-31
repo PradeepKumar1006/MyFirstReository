@@ -68,6 +68,7 @@ My First Day at GitHub
 | [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
@@ -206,6 +207,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
@@ -259,6 +261,7 @@ My First Day at GitHub
 | [0128-longest-consecutive-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
