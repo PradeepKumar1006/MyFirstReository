@@ -36,6 +36,7 @@ My First Day at GitHub
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -266,6 +267,7 @@ My First Day at GitHub
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -283,6 +285,7 @@ My First Day at GitHub
 | [0628-maximum-product-of-three-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -313,6 +316,7 @@ My First Day at GitHub
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -359,6 +363,7 @@ My First Day at GitHub
 | [0347-top-k-frequent-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
