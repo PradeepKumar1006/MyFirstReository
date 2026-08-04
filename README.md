@@ -92,6 +92,7 @@ My First Day at GitHub
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@ My First Day at GitHub
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -302,6 +304,7 @@ My First Day at GitHub
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
