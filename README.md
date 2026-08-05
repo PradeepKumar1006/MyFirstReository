@@ -208,6 +208,7 @@ My First Day at GitHub
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0876-middle-of-the-linked-list) |
@@ -220,6 +221,7 @@ My First Day at GitHub
 | [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
@@ -285,6 +287,7 @@ My First Day at GitHub
 | [0438-find-all-anagrams-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
@@ -342,6 +345,7 @@ My First Day at GitHub
 | [0394-decode-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
