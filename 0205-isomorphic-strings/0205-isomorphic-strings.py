@@ -5,12 +5,12 @@ class Solution:
         s2t = {}
         t2s = {}
         for i in range(len(s)):
-            c1 = s[i]
-            c2 = t[i]
-            if c1 in s2t and s2t[c1] != c2:
+            se = s[i]
+            te = t[i]
+            if se in s2t and s2t[se] != te:
                 return False
-            if c2 in t2s and t2s[c2] != c1:
+            if te in t2s and t2s[te] != se:
                 return False
-            s2t[c1] = c2
-            t2s[c2] = c1
+            s2t[se] = te
+            t2s[te] = se
         return True
