@@ -6,6 +6,8 @@ class Solution:
 
             while temp:
                 dp *= temp % 10
+                if product == 0:
+                    break
                 temp //= 10
 
             if dp % t == 0:
