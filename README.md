@@ -95,6 +95,7 @@ My First Day at GitHub
 | [0766-toeplitz-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -121,6 +122,7 @@ My First Day at GitHub
 | [0704-binary-search](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
