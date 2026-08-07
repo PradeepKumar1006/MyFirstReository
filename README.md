@@ -215,6 +215,7 @@ My First Day at GitHub
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
@@ -354,6 +355,7 @@ My First Day at GitHub
 | [0394-decode-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
