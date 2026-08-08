@@ -454,4 +454,8 @@ My First Day at GitHub
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
