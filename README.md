@@ -85,6 +85,7 @@ My First Day at GitHub
 | [0347-top-k-frequent-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0628-maximum-product-of-three-numbers) |
@@ -297,6 +298,7 @@ My First Day at GitHub
 | [0389-find-the-difference](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
@@ -330,10 +332,12 @@ My First Day at GitHub
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
 ## String
 |  |
