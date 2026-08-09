@@ -24,6 +24,7 @@ My First Day at GitHub
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -98,6 +99,7 @@ My First Day at GitHub
 | [0875-koko-eating-bananas](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -375,6 +377,7 @@ My First Day at GitHub
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Interactive
 |  |
@@ -430,6 +433,7 @@ My First Day at GitHub
 | [0209-minimum-size-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -462,4 +466,16 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
