@@ -9,6 +9,7 @@ My First Day at GitHub
 | [0007-reverse-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
@@ -350,6 +351,7 @@ My First Day at GitHub
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
@@ -388,6 +390,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0222-count-complete-tree-nodes) |
@@ -447,6 +450,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
 ## Union-Find
 |  |
