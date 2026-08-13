@@ -1,6 +1,3 @@
 select
-product_name,
-year,
-price
-from sales s left join product p
-on s.product_id = p.product_id
+product_name,year,price
+from sales left join product on sales.product_id = product.product_id
