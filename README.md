@@ -187,6 +187,7 @@ My First Day at GitHub
 | [1661-average-time-of-process-per-machine](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1978-employees-whose-manager-left-the-company) |
