@@ -1,9 +1,2 @@
-with cte as (
-    select *, SUM(weight) OVER(order by turn) as cumsum
-    from queue
-)
-select person_name
-from cte
-where cumsum<=1000
-order by cumsum desc
-limit 1
+with cte as (select *,sum(weight) over(order by turn) as ord from queue)
+select person_name from cte where ord <= 1000 order by ord desc limit 1
