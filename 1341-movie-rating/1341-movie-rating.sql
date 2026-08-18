@@ -11,5 +11,5 @@ test as (
 on m.movie_id = r.movie_id
 order by rat desc,m.title limit 1)
 select name as results from test
-union all 
+union all  
 select title as results from last
