@@ -156,6 +156,7 @@ My First Day at GitHub
 | [0180-consecutive-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0197-rising-temperature) |
