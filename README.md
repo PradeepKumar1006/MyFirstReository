@@ -40,6 +40,7 @@ My First Day at GitHub
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@ My First Day at GitHub
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -324,6 +326,7 @@ My First Day at GitHub
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+| [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -424,6 +427,7 @@ My First Day at GitHub
 | [0287-find-the-duplicate-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 ## Tree
 |  |
 | ------- |
