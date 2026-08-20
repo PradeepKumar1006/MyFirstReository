@@ -29,6 +29,7 @@ My First Day at GitHub
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
+| [2119-a-number-after-a-double-reversal](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
