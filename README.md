@@ -109,6 +109,7 @@ My First Day at GitHub
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -485,6 +486,7 @@ My First Day at GitHub
 | [0054-spiral-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0415-add-strings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
 | ------- |
