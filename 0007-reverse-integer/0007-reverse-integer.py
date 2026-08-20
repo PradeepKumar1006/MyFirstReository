@@ -4,8 +4,7 @@ class Solution:
         x = abs(x)
         rev = 0
         while x:
-            digit = x % 10
-            rev = rev * 10 + digit
+            rev = rev * 10 + x % 10
             x //= 10
         rev *= sign
         if rev < -2**31 or rev > 2**31 - 1:
