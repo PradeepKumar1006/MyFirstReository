@@ -530,4 +530,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
