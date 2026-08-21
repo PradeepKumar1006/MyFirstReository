@@ -1,7 +1,6 @@
 class Solution:
     def maxArea(self, nums: List[int]) -> int:
-        l = 0
-        r = len(nums)-1
+        l,r = 0,len(nums)-1
         res = float('-inf')
         while l < r:
             res = max(res,(min(nums[l],nums[r])*(r-l)))
