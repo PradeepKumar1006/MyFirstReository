@@ -8,4 +8,4 @@ class Solution:
             s += last
             p *= last
             n //= 10
-        return True if t%(s+p)==0 else False
+        return t%(s+p)==0
