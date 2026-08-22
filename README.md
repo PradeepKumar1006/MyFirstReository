@@ -34,6 +34,7 @@ My First Day at GitHub
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
