@@ -546,4 +546,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
