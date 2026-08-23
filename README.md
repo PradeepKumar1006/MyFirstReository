@@ -29,6 +29,7 @@ My First Day at GitHub
 | [0633-sum-of-square-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0633-sum-of-square-numbers) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
+| [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -44,6 +45,7 @@ My First Day at GitHub
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -407,6 +409,7 @@ My First Day at GitHub
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+| [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -524,6 +527,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
