@@ -68,6 +68,7 @@ My First Day at GitHub
 | [0041-first-missing-positive](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0073-set-matrix-zeroes) |
@@ -222,6 +223,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0215-kth-largest-element-in-an-array) |
@@ -423,6 +425,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0392-is-subsequence) |
