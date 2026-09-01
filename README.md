@@ -115,6 +115,7 @@ My First Day at GitHub
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
+| [1480-running-sum-of-1d-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -496,6 +497,7 @@ My First Day at GitHub
 | [0238-product-of-array-except-self](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
