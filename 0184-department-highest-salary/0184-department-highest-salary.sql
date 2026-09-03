@@ -1,3 +1,7 @@
-with cte as (
-    select *,dense_rank() over(partition by departmentid order by salary desc) as rn from employee
-)select d.name as Department, c.name as Employee, c.salary from cte c join department d on c.departmentid = d.id where c.rn = 1
+with base as (
+    select e.*,dense_rank() over(partition by departmentId order by salary desc) as rn,
+    d.name as Department
+    from employee e join department d
+    on e.departmentId = d.id
+)select department as Department,name as Employee,salary as Salary from base
+where rn = 1
