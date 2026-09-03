@@ -1,8 +1,14 @@
-with cte as (
-    select user_id,
-    round(avg(action = 'confirmed'),2) as confirmation_rate
-    from confirmations
-    group by 1
-)select s.user_id,coalesce(c.confirmation_rate,0) as confirmation_rate from signups s
-left join cte c
-on s.user_id = c.user_id
+WITH base AS (
+    SELECT
+        user_id,
+        ROUND(AVG(action = 'confirmed'), 2) AS confirmation_rate
+    FROM confirmations
+    GROUP BY
+        user_id
+)
+SELECT
+    s.user_id,
+    COALESCE(b.confirmation_rate, 0) AS confirmation_rate
+FROM signups s
+LEFT JOIN base b
+    ON s.user_id = b.user_id;
