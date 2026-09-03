@@ -107,6 +107,7 @@ My First Day at GitHub
 | [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0766-toeplitz-matrix) |
@@ -498,6 +499,7 @@ My First Day at GitHub
 | [0209-minimum-size-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
