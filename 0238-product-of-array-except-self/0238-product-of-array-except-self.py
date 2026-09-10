@@ -1,9 +1,8 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        lp = 1
-        rp = 1
         n = len(nums)
-        res = [1] * n
+        res = [-1]*n
+        lp = rp = 1
         for i in range(n):
             res[i] = lp
             lp *= nums[i]
