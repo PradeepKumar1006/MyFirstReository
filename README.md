@@ -90,6 +90,7 @@ My First Day at GitHub
 | [0204-count-primes](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
@@ -342,6 +343,7 @@ My First Day at GitHub
 | [0142-linked-list-cycle-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
@@ -378,6 +380,7 @@ My First Day at GitHub
 | [0169-majority-element](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0347-top-k-frequent-elements) |
