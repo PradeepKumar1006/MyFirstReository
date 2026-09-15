@@ -1,6 +1,23 @@
-select
-round(avg(order_date=customer_pref_delivery_date)*100,2) as immediate_percentage 
-from delivery where (customer_id,order_date) in (
-    select customer_id,min(order_date) from delivery
-    group by 1
+WITH first_order AS (
+    SELECT
+        customer_id,
+        MIN(order_date) AS first_order_date
+    FROM Delivery
+    GROUP BY customer_id
 )
+
+SELECT
+    ROUND(
+        100.0 * SUM(
+            CASE
+                WHEN d.order_date = d.customer_pref_delivery_date
+                THEN 1
+                ELSE 0
+            END
+        ) / COUNT(*),
+        2
+    ) AS immediate_percentage
+FROM Delivery d
+JOIN first_order f
+    ON d.customer_id = f.customer_id
+    AND d.order_date = f.first_order_date;
