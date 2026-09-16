@@ -1,1 +1,8 @@
-select user_id,concat(upper(substr(name,1,1)),lower(substr(name,2))) as name from users order by 1
+SELECT
+    user_id,
+    CONCAT(
+        UPPER(LEFT(name, 1)),
+        LOWER(SUBSTRING(name, 2))
+    ) AS name
+FROM Users
+ORDER by user_id;
