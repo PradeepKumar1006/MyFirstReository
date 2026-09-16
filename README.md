@@ -30,6 +30,7 @@ My First Day at GitHub
 | [0836-rectangle-overlap](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2119-a-number-after-a-double-reversal) |
@@ -451,6 +452,7 @@ My First Day at GitHub
 | [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Interactive
 |  |
@@ -515,6 +517,7 @@ My First Day at GitHub
 | [0724-find-pivot-index](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1991-find-the-middle-index-in-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1991-find-the-middle-index-in-array) |
 ## Trie
 |  |
@@ -586,4 +589,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
