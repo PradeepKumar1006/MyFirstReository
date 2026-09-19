@@ -30,6 +30,7 @@ My First Day at GitHub
 | [0836-rectangle-overlap](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
@@ -589,6 +590,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
