@@ -126,6 +126,7 @@ My First Day at GitHub
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -163,6 +164,7 @@ My First Day at GitHub
 | [0875-koko-eating-bananas](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -289,6 +291,7 @@ My First Day at GitHub
 | [0438-find-all-anagrams-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -366,6 +369,7 @@ My First Day at GitHub
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -522,6 +526,7 @@ My First Day at GitHub
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1991-find-the-middle-index-in-array) |
 ## Trie
 |  |
