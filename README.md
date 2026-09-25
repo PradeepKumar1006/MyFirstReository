@@ -370,6 +370,7 @@ My First Day at GitHub
 | [0523-continuous-subarray-sum](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+| [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -401,6 +402,7 @@ My First Day at GitHub
 | [0628-maximum-product-of-three-numbers](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
@@ -412,6 +414,7 @@ My First Day at GitHub
 | [0394-decode-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -445,6 +448,7 @@ My First Day at GitHub
 | [0567-permutation-in-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
+| [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -518,6 +522,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
+| [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -605,4 +610,8 @@ My First Day at GitHub
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
