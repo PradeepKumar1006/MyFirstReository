@@ -416,6 +416,7 @@ My First Day at GitHub
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -451,6 +452,7 @@ My First Day at GitHub
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -572,6 +574,7 @@ My First Day at GitHub
 | ------- |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimax
 |  |
 | ------- |
