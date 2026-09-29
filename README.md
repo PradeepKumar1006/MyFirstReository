@@ -130,6 +130,7 @@ My First Day at GitHub
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2029-stone-game-ix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -178,6 +179,7 @@ My First Day at GitHub
 | [0766-toeplitz-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
 |  |
 | ------- |
@@ -470,6 +472,7 @@ My First Day at GitHub
 | [0392-is-subsequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3524-find-x-value-of-array-i) |
 ## Interactive
@@ -575,6 +578,7 @@ My First Day at GitHub
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimax
 |  |
 | ------- |
