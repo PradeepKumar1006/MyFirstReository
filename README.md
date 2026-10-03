@@ -412,6 +412,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
@@ -433,6 +434,7 @@ My First Day at GitHub
 | [0014-longest-common-prefix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0067-add-binary) |
@@ -468,6 +470,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
@@ -578,6 +581,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
