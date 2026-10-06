@@ -51,6 +51,7 @@ My First Day at GitHub
 | [0011-container-with-most-water](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1927-sum-game) |
@@ -418,6 +419,7 @@ My First Day at GitHub
 | [0496-next-greater-element-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -457,6 +459,7 @@ My First Day at GitHub
 | [0680-valid-palindrome-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -585,6 +588,7 @@ My First Day at GitHub
 | [0020-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
