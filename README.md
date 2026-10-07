@@ -447,6 +447,7 @@ My First Day at GitHub
 | [0205-isomorphic-strings](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0389-find-the-difference) |
@@ -539,6 +540,7 @@ My First Day at GitHub
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
@@ -637,6 +639,7 @@ My First Day at GitHub
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 ## Z Algorithm
 |  |
