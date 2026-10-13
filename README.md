@@ -59,6 +59,7 @@ My First Day at GitHub
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@ My First Day at GitHub
 | [3524-find-x-value-of-array-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -408,6 +410,7 @@ My First Day at GitHub
 | [1096-brace-expansion-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1096-brace-expansion-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
