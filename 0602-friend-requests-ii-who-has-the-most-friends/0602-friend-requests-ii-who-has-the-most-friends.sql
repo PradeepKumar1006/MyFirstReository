@@ -1,16 +1,5 @@
-WITH cte AS (
-    SELECT requester_id AS id
-    FROM RequestAccepted
-
-    UNION ALL
-
-    SELECT accepter_id AS id
-    FROM RequestAccepted
-)
-SELECT
-    id,
-    COUNT(*) AS num
-FROM cte
-GROUP BY id
-ORDER BY num DESC
-LIMIT 1;
+with cte as (
+    select requester_id  as id from RequestAccepted 
+    union all
+    select accepter_id as id from RequestAccepted 
+)select id ,count(id) as num from cte group by 1 order by num desc limit 1
