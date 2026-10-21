@@ -1,15 +1,6 @@
-SELECT p1.product_id, p1.new_price AS price
-FROM Products p1
-WHERE p1.change_date = (
-    SELECT MAX(p2.change_date)
-    FROM Products p2
-    WHERE p1.product_id = p2.product_id
-      AND p2.change_date <= '2019-08-16'
-)
-
-UNION
-
-SELECT product_id, 10 AS price
-FROM Products
-GROUP BY product_id
-HAVING MIN(change_date) > '2019-08-16';
+select
+product_id,coalesce((
+    select p2.new_price from products p2 where p.product_id = p2.product_id
+    and p2.change_date <= '2019-08-16'order by change_date desc limit 1
+),10
+) as price from products p group by 1
