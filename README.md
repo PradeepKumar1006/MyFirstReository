@@ -479,6 +479,7 @@ My First Day at GitHub
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
