@@ -144,6 +144,7 @@ My First Day at GitHub
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ My First Day at GitHub
 | [0835-image-overlap](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -494,6 +496,7 @@ My First Day at GitHub
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -514,6 +517,7 @@ My First Day at GitHub
 | [0342-power-of-four](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/1386-cinema-seat-allocation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PradeepKumar1006/MyFirstReository/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
